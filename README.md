@@ -1,7 +1,7 @@
 # nyse_data_project
 
 This repository contains data of over four hundred stocks recorded in a span of four years. It involves:
-- Summary statistics of an insight I found within the data
+- Summary statistics of some of the companies within the data
 - A profit and loss statement dashboard, with the ability to choose any stock within the data and see what was collected all four years
 - Forecast scenarios of the NVDA stock
 
